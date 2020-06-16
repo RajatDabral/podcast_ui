@@ -1,16 +1,47 @@
-# podcast_ui
+# Podcast UI 
 
-A new Flutter project.
+I Tried implementing this beautiful Podcast UI designed by Fereshteh, Please find her work here :
+https://dribbble.com/FereshtehPb
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## About the Project
 
-A few resources to get you started if this is your first Flutter project:
+This Project is developed using Flutter & Dart. Purpose of the project is to develop a User friendly UI with smooth transitions between pages. This took 2 days to implement with working implementation of the application.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Key Features : 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Custom Implementation of the Inherited Widget class.  
+2. Extensive use of Global key.  
+3. PageRouteBuilder & HERO animation for transitioning between Pages.  
+
+### Lined up Changes :
+
+1. Adding Animations when a new Page is pushed to the Screen. 
+2. Animated Icons  
+3. Use of Streams & Bloc Pattern.  
+
+## Contact Info:
+
+Add me on LinkedIn : https://www.linkedin.com/in/rajat-dabral/
+Follow me on Quora : https://www.quora.com/profile/Rajat-Dabral
+
+# Screen Shots: 
+
+## Home Screen: 
+
+<img src = "screenshots/Screenshot_1592288120.png" height = 650 width = 350>  
+
+<img src = "screenshots/Screenshot_1592288167.png" height = 650 width = 350>  
+
+## Favorite Screen:
+
+<img src = "screenshots/Screenshot_1592288195.png" height = 650 width = 350>  
+
+## Player Screen:
+
+<img src = "screenshots/Screenshot_1592288205.png" height = 650 width = 350>  
+
+## Drawer Menu: 
+
+<img src = "screenshots/Screenshot_1592288256.png" height = 650 width = 350> 
+
